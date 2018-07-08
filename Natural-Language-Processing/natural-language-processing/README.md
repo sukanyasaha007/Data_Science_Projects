@@ -47,7 +47,7 @@ You can also find this curriculum on [Medium](https://medium.com/byteacademyco/i
         * [5.2.2 WordNetLemmatizer?](#522-wordnetlemmatizer)
 - [6.0 Final Words](#60-final-words)
     + [6.1 Resources](#61-resources)
-    + [6.2 More Stuff](#62-mini-courses)
+    
 
 
 ## 0.0 Setup
